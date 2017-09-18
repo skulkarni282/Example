@@ -1,2 +1,2 @@
 # Example
-simple program
+simple program for java packages
